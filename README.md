@@ -35,7 +35,7 @@ This portfolio demonstrates my experience in frontend and backend development, m
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/CollinsCode-Hub/CollinsAgofure-portfolio.git
 ```
 
 Navigate into the project folder:
@@ -67,16 +67,16 @@ portfolio/
 
 ## Contact
 
-Email: your-email@example.com
+Email: collinsagofure247@gmail.com
 
 LinkedIn:
-https://linkedin.com/in/your-profile
+https://www.linkedin.com/in/collins-agofure-3378a4323/
 
 GitHub:
-https://github.com/yourusername
+https://github.com/CollinsCode-Hub/
 
 Portfolio:
-https://yourwebsite.com
+https://github.com/CollinsCode-Hub/CollinsAgofure-portfolio
 
 ## License
 
