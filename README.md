@@ -1,4 +1,4 @@
-# Collins Agofure - Software Developer Portfolio
+# Collins Agofure - Software Engineer
 
 Welcome to my personal portfolio website! This portfolio showcases my technical skills, software development projects, certifications, and contact information. It serves as a central place where recruiters, employers, clients, and collaborators can learn more about my work and easily get in touch.
 
